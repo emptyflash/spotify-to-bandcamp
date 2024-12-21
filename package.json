@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bandcamp-scraper": "git+https://github.com/emptyflash/bandcamp-scraper",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
